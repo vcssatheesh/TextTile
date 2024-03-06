@@ -1,0 +1,15 @@
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\bin\Debug\net7.0\DBClass.deps.json
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\bin\Debug\net7.0\DBClass.dll
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\bin\Debug\net7.0\DBClass.pdb
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\bin\Debug\net7.0\EntityObject.dll
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\bin\Debug\net7.0\EntityObject.pdb
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\DBClass.csproj.AssemblyReference.cache
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\DBClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\DBClass.AssemblyInfoInputs.cache
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\DBClass.AssemblyInfo.cs
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\DBClass.csproj.CoreCompileInputs.cache
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\DBClass.csproj.CopyComplete
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\DBClass.dll
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\refint\DBClass.dll
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\DBClass.pdb
+C:\Users\Satheesh CGS\source\repos\TextTile\DBClass\obj\Debug\net7.0\ref\DBClass.dll

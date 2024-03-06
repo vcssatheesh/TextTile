@@ -1,0 +1,12 @@
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\bin\Debug\net7.0\EntityObject.deps.json
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\bin\Debug\net7.0\EntityObject.dll
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\bin\Debug\net7.0\EntityObject.pdb
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\EntityObject.csproj.AssemblyReference.cache
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\EntityObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\EntityObject.AssemblyInfoInputs.cache
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\EntityObject.AssemblyInfo.cs
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\EntityObject.csproj.CoreCompileInputs.cache
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\EntityObject.dll
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\refint\EntityObject.dll
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\EntityObject.pdb
+C:\Users\Satheesh CGS\source\repos\TextTile\EntityObject\obj\Debug\net7.0\ref\EntityObject.dll
